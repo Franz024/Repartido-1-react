@@ -1,0 +1,42 @@
+body{
+  background:linear-gradient(black,blue,black);
+  display: flex;
+}
+
+body img{
+  width: 400px;
+  height: 450px;
+}
+
+.Blanka{
+  display: flex;
+  margin: 20px;
+}
+
+
+h1{
+  color:blue ;
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+  color:black;
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+  color: black;
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.carta{
+  padding: 15px;
+  margin:  15px;
+}
+
+.carta img{
+  border: double crimson 5px;
+}
